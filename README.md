@@ -30,6 +30,7 @@ git push -u origin writing
 4. Make a change to the line below in this file: \
 Clark Magnite High School - N/A
 
+
 5. Add, commit, and push your changes: \
 git add README.md \
 git commit -m "Add school and intended major" \
@@ -64,7 +65,8 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+
+Sushi is overrated.
 
 5. Add, commit, and push your changes:
   - git add README.md
